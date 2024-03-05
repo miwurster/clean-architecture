@@ -10,7 +10,7 @@
   </parent>
 
   <groupId>io.miwurster.clean</groupId>
-  <artifactId>test-failure-analyzer</artifactId>
+  <artifactId>spring-test-failure-analyzer</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <properties>
