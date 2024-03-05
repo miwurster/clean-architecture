@@ -2,4 +2,5 @@
 
 I use this repository to demonstrate how to apply `Clean Architecture` using different programming languages together with different frameworks.
 
-- [Java with Spring Boot](./spring-test-failure-analyzer)
+- [Test Failure Analyzer using Java with Spring Boot](./spring-test-failure-analyzer)
+- [User Management Application using Java with Spring Boot](./spring-user-management)
