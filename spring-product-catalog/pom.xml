@@ -10,7 +10,7 @@
   </parent>
 
   <groupId>io.miwurster.clean</groupId>
-  <artifactId>spring-user-management</artifactId>
+  <artifactId>spring-product-catalog</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <properties>
